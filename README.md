@@ -24,7 +24,4 @@ The dataset contains customer data, including demographics, account information,
     - Support Vector Machine (SVM)
   - Evaluate models using metrics such as accuracy, precision, recall, F1 score, ROC curve, and AUC.
 
-## Installation
-To run this project, you'll need to install the following Python libraries:
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
+
